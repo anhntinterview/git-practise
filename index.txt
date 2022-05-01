@@ -1,2 +1,2 @@
 hello git!
-p-2-rebase-v1
+p-2-rebase-v2
