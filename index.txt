@@ -1,2 +1,2 @@
 hello git!
-p-2-rebase-v2
+p-2-rebase-v2-tuananh.nguyen.macpro@gmail.com
