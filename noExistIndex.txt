@@ -1,1 +1,0 @@
-I delete and rename file name index.txt -> noExistIndex.txt all of information of git merge from p-1-rebase-v4
