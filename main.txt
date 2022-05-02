@@ -1,6 +1,6 @@
-red
-orange
-yellow
+coffee
+neon
+winter
 green
 blue
 dar blue
