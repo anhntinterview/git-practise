@@ -1,6 +1,6 @@
 coffee
-neon
-winter
+lavender
+spring
 green
 blue
 dar blue
