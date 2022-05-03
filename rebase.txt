@@ -4,4 +4,4 @@ My Branch
 A   B
 
 His Branch
-AA
+AA  BB
