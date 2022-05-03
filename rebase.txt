@@ -1,8 +1,4 @@
-Git Rebae Tutorial
+Git Rebase Tutorial
 
 My Branch
-A   B   C
-
-His Branch
-
-AA
+A
