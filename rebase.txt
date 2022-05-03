@@ -2,3 +2,6 @@ Git Rebase Tutorial
 
 My Branch
 A   B
+
+His Branch
+AA
